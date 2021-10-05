@@ -1,7 +1,6 @@
 # TAREA N°1 SISTEMAS OPERATIVOS
 ##  Descripción de soluciones
-> *a) Para la solucion de este item, se utilizo para cada comando mostrado el comando **man** de linux, el cual proporciona informacion concisa de el uso de los comandos con sus respectivos parametros.
-Adicionalmente se hizo uso de las siguientes paginas:*  
+> *a) Para la solucion de este item, se utilizo para cada comando el comando **man** de linux, el cual proporciona informacion concisa de el uso de los comandos con sus respectivos parametros.*  
 > *b) Para la solucion de este item se hizo uso de las siguientes paginas:*  
 - https://www.taringa.net/+linux/metacaracteres-o-shell-globbing-en-linux_w1k5z
 - https://tecnonautas.net/metacaracteres-de-linux-y-sus-significados/#El_simbolo_del_dolar_como_un_metacaracter
