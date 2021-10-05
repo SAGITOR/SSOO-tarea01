@@ -25,7 +25,7 @@ Adicionalmente se hizo uso de las siguientes paginas:*
 - https://blog.desdelinux.net/bash-como-hacer-un-script-ejecutable/
 - https://cambiatealinux.com/head-ver-las-primeras-lineas-de-un-archivo
 - https://linuxize.com/post/bash-increment-decrement-variable/
-- 
+
 ##  Tarea bonus
 > **Resolucion:** *Para la resolucion de este bonus, se realizo una busqueda de el uso de archivos, parametros y arrays en el lenguaje bash, para ello se utilizaron los siguientes links:*  
 - https://stackoverflow.com/questions/8880603/loop-through-an-array-of-strings-in-bash
